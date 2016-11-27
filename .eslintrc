@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "max-len": "off",
+    "react/jsx-space-before-closing": "off"
+  }
+}
